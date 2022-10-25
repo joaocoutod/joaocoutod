@@ -9,6 +9,7 @@
  <img align="center" alt="joao-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
 </div>
  ![Snake animation](https://github.com/joaocoutod/joaocoutod/blob/output/github-contribution-grid-snake.svg)
+ 
  ## CONTACT
  <div> 
    <a href="https://www.instagram.com/joaol.exe/" target="_blank">
