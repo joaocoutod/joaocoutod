@@ -1,4 +1,4 @@
- ## João Lucas 
+ ## Hi 👋🏽 I’m João Lucas
  ## TECHNOLOGIES & TOOLS
 <div style="display: inline_block; margin-top: 2px">
  <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
