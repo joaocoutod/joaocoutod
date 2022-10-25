@@ -1,6 +1,6 @@
  ## Hi 👋🏽 I’m João Lucas
 
-<div style="display: inline_block; margin-top: 2px; text-align: center;" >
+<div style="display: inline_block; margin-top: 2px; text-aling: center;" >
  <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -9,7 +9,7 @@
  <img align="center" alt="joao-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
 </div>
 
-<div style="text-align: center;">
+<div style="text-aling: center;">
  ![Snake animation](https://github.com/joaocoutod/joaocoutod/blob/output/github-contribution-grid-snake.svg)
  </div>
  
