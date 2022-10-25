@@ -1,6 +1,6 @@
  ## Hi 👋🏽 I’m João Lucas
-
-<div style="display: inline_block; margin-top: 2px; margin: 0 auto" >
+<center>
+<div style="display: inline_block; margin-top: 2px;" >
  <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,5 +23,5 @@
    </a> 
 </div>
 
-
+</center>
  
