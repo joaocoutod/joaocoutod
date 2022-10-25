@@ -1,6 +1,6 @@
  ## Hi 👋🏽 I’m João Lucas
  
- <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{joaocoutod}/count.svg" alt="joaocoutod :: Visitor's Count" /></p>
  
  ## TECHNOLOGIES & TOOLS
 <div style="display: inline_block; margin-top: 2px">
