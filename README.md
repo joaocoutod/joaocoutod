@@ -9,12 +9,6 @@
  <img align="center" alt="joao-laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
 
 
-
-<a href="https://github.com/Neel2904">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocoutod&theme=radical&hide=glsl,python" />
-</a>
-
-
  ![Snake animation](https://github.com/joaocoutod/joaocoutod/blob/output/github-contribution-grid-snake.svg)
 
  </div>
