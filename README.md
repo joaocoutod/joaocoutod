@@ -11,7 +11,7 @@
 
 
 <a href="https://github.com/Neel2904">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel2904&theme=radical&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocoutod&theme=radical&hide=glsl,python" />
 </a>
 
 
