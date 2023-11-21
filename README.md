@@ -14,7 +14,7 @@
 
  </div>
  <div align="center" style=" margin-top: 3px;"> 
-   Contacts
+   <h3>Contacts</h3>
    <a href="https://www.instagram.com/joaol.exe/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a>
